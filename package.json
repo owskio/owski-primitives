@@ -1,0 +1,11 @@
+{
+  "name": "owski-primitives",
+  "version": "0.0.1",
+  "description": "A collection of curried fns for js like 'add' and undefined",
+  "main": "primitives.js",
+  "scripts": {
+    "test": "mocha tests/*.mocha.js"
+  },
+  "author": "Ted Cackowski Jr",
+  "license": "MIT"
+}
